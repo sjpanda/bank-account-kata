@@ -1,1 +1,1 @@
-# bank-account-kata
+Run "AccountTest" to check the implementation
